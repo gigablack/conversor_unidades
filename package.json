@@ -1,6 +1,6 @@
 {
   "name": "kilo2pounds",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "conversor de unidades basico entre kilogramos y libras",
   "main": "kilo2pounds.js",
   "scripts": {
