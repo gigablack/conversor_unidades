@@ -1,0 +1,23 @@
+{
+  "name": "kilo2pounds",
+  "version": "0.1.0",
+  "description": "conversor de unidades basico entre kilogramos y libras",
+  "main": "kilo2pounds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gigablack/conversor_unidades.git"
+  },
+  "keywords": [
+    "kilos",
+    "pounds"
+  ],
+  "author": "Gustavo Bethelmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gigablack/conversor_unidades/issues"
+  },
+  "homepage": "https://github.com/gigablack/conversor_unidades#readme"
+}
